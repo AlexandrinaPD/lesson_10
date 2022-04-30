@@ -9,19 +9,19 @@ public class Pizza {
     /**
      * Поле базис типа класса Circle
      */
-    Circle basis;
+    private Circle basis;
     /**
      * Поле состав пиццы
      */
-    String composition;
+    private String composition;
     /**
      * Поле название пиццы
      */
-    String name;
+    private String name;
     /**
      * Поле цена пиццы
      */
-    double cost;
+    private double cost;
 
     /**
      * Конструктор - создание нового объекта с определенными значениями
